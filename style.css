@@ -32,3 +32,19 @@ td{
 tr:hover {
   background-color: salmon;
 }
+#new{
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  background-color: pink;
+}
+li a {
+  display: block;
+  float: left;
+  padding: 10px 100px;
+  color: purple;
+}
+li a:hover{
+  background-color: yellow;
+}
