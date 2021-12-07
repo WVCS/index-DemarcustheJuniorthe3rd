@@ -32,18 +32,6 @@ td{
 tr:hover {
   background-color: salmon;
 }
-h2 {
-  text-align: center;
-  color: cyan;
-  
-}
-body{
-  background-color: orange;
-}
-img{
-  width: 650px;
-  border-radius: 1000px;
-}
 #new{
   list-style-type: none;
   width: 100%;
